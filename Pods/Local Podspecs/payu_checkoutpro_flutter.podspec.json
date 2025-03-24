@@ -1,0 +1,27 @@
+{
+  "name": "payu_checkoutpro_flutter",
+  "version": "1.2.0",
+  "summary": "Flutter plugin for PayU CheckoutPro SDK",
+  "description": "PayU CheckoutPro SDK can be used with this plugin.",
+  "homepage": "https://github.com/payu-intrepos/PayUCheckoutPro-Flutter",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "PayU": "https://payu.in/"
+  },
+  "source": {
+    "git": "https://github.com/payu-intrepos/PayUCheckoutPro-Flutter.git",
+    "tag": "#{s.version}"
+  },
+  "source_files": "Classes/**/*",
+  "dependencies": {
+    "Flutter": [],
+    "PayUIndia-CheckoutPro": [
+      "~>8.5"
+    ]
+  },
+  "platforms": {
+    "ios": "13.0"
+  }
+}

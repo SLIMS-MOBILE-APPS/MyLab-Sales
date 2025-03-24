@@ -1,0 +1,6 @@
+framework module payu_checkoutpro_flutter {
+  umbrella header "payu_checkoutpro_flutter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,153 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_pdfview (1.0.2):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - payu_checkoutpro_flutter (1.2.0):
+    - Flutter
+    - PayUIndia-CheckoutPro (~> 8.5)
+  - PayUIndia-Analytics (4.0.2):
+    - PayUIndia-NetworkReachability (~> 2.1)
+  - PayUIndia-AssetLibrary (4.0.1)
+  - PayUIndia-CardScanner (2.0.1)
+  - PayUIndia-CheckoutPro (8.5.0):
+    - PayUIndia-AssetLibrary (~> 4.0)
+    - PayUIndia-CardScanner (~> 2.0)
+    - PayUIndia-CheckoutProBase (~> 8.4)
+    - PayUIndia-CommonUI (~> 2.1)
+    - PayUIndia-CrashReporter (~> 4.0)
+    - PayUIndia-Custom-Browser (~> 11.1)
+    - PayUIndia-NativeOtpAssist (~> 4.1)
+    - PayUIndia-NetworkReachability (~> 2.0)
+    - PayUIndia-PayUParams (~> 6.4)
+    - PayUIndia-PG-SDK (~> 11.4)
+    - PayUIndia-UPICore (~> 10.3)
+  - PayUIndia-CheckoutProBase (8.5.0):
+    - PayUIndia-PayUParams (~> 6.4)
+  - PayUIndia-CommonUI (2.1.0):
+    - PayUIndia-Analytics (~> 4.0)
+    - PayUIndia-CrashReporter (~> 4.0)
+  - PayUIndia-CrashReporter (4.0.1)
+  - PayUIndia-Custom-Browser (11.1.0):
+    - PayUIndia-CommonUI (~> 2.1)
+  - PayUIndia-Logger (5.0.1)
+  - PayUIndia-NativeOtpAssist (4.1.0):
+    - PayUIndia-Analytics (~> 4.0)
+    - PayUIndia-CommonUI (~> 2.1)
+    - PayUIndia-CrashReporter (~> 4.0)
+    - PayUIndia-NetworkReachability (~> 2.1)
+    - PayUIndia-PayUParams (~> 6.3)
+  - PayUIndia-Networking (5.0.1):
+    - PayUIndia-Logger (~> 5.0)
+  - PayUIndia-NetworkReachability (2.1.1)
+  - PayUIndia-PayUParams (6.4.0)
+  - PayUIndia-PG-SDK (11.4.0):
+    - PayUIndia-CrashReporter (~> 4.0)
+    - PayUIndia-NetworkReachability (~> 2.1)
+    - PayUIndia-PayUParams (~> 6.4)
+  - PayUIndia-UPICore (10.3.0):
+    - PayUIndia-CommonUI (~> 2.1)
+    - PayUIndia-Networking (~> 5.0)
+    - PayUIndia-PayUParams (~> 6.3)
+  - permission_handler_apple (9.1.1):
+    - Flutter
+  - printing (1.0.0):
+    - Flutter
+  - share (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - Toast (4.1.1)
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_pdfview (from `.symlinks/plugins/flutter_pdfview/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
+  - payu_checkoutpro_flutter (from `.symlinks/plugins/payu_checkoutpro_flutter/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - printing (from `.symlinks/plugins/printing/ios`)
+  - share (from `.symlinks/plugins/share/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - PayUIndia-Analytics
+    - PayUIndia-AssetLibrary
+    - PayUIndia-CardScanner
+    - PayUIndia-CheckoutPro
+    - PayUIndia-CheckoutProBase
+    - PayUIndia-CommonUI
+    - PayUIndia-CrashReporter
+    - PayUIndia-Custom-Browser
+    - PayUIndia-Logger
+    - PayUIndia-NativeOtpAssist
+    - PayUIndia-Networking
+    - PayUIndia-NetworkReachability
+    - PayUIndia-PayUParams
+    - PayUIndia-PG-SDK
+    - PayUIndia-UPICore
+    - Toast
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_pdfview:
+    :path: ".symlinks/plugins/flutter_pdfview/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/ios"
+  payu_checkoutpro_flutter:
+    :path: ".symlinks/plugins/payu_checkoutpro_flutter/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  printing:
+    :path: ".symlinks/plugins/printing/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_pdfview: 32bf27bda6fd85b9dd2c09628a824df5081246cf
+  fluttertoast: eaafdac812d1d69931004e881c87a8643b1c9111
+  path_provider_foundation: 2a68637f8a62df7f6e790a428d1bdf72cb4e2d59
+  payu_checkoutpro_flutter: 06943dcf367710fb02155263ad05a6793b6128b0
+  PayUIndia-Analytics: 90a4c1a9d3f7a79422a4f4b0c3d9f5a8362b89fb
+  PayUIndia-AssetLibrary: e40d7697c37aea55f184e29564e2f8b63a63b472
+  PayUIndia-CardScanner: c62d78a8f512658c31cc3d6ecb09455ac92489ca
+  PayUIndia-CheckoutPro: c87afd22f7f750d57a6fac28405c6cb9d26b3ce7
+  PayUIndia-CheckoutProBase: 47457a5cd13f57d17f1060df3fae252826c76f81
+  PayUIndia-CommonUI: cbe8922f82d068b9a3557d6161cfbb9f435f8097
+  PayUIndia-CrashReporter: 37ee5e6103a7d6bc427e5460b3b2ce4ce0e9677b
+  PayUIndia-Custom-Browser: 39a98d8f202a98bc815c3202a008da7875f5d83f
+  PayUIndia-Logger: 50866e18a275b0726ed59afaea67b6529ab42774
+  PayUIndia-NativeOtpAssist: d92aa3982c53b8ed36b3b6812f32f79953adfa4e
+  PayUIndia-Networking: 0709588fd96b6b42c1398d07471cf87ef2c0db71
+  PayUIndia-NetworkReachability: 581c04b9ea3a8aaa78faef179ad819759942f381
+  PayUIndia-PayUParams: 1f93f62622825baa8e5dacbc7c91be1e02f9f302
+  PayUIndia-PG-SDK: 208fdcf3e81600cc6dd7f2b75c3eebb7e814ef25
+  PayUIndia-UPICore: 08c47a37da9e2338c81fe7d91a582272f9ce4684
+  permission_handler_apple: 3787117e48f80715ff04a3830ca039283d6a4f29
+  printing: 54ff03f28fe9ba3aa93358afb80a8595a071dd07
+  share: a34936589f3090d59481bcdc5c30cc9dd47c75f6
+  shared_preferences_foundation: 4e65c567e7877037d328829a522222c938bf308c
+  Toast: 1f5ea13423a1e6674c4abdac5be53587ae481c4e
+  url_launcher_ios: 9d5365b30ff416ba8e3d917bae5f7fb25f6a4a89
+
+PODFILE CHECKSUM: 30517025a2fecca2d72dac25f08abb5b9a8f1a56
+
+COCOAPODS: 1.16.2
